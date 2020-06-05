@@ -1,3 +1,3 @@
-first_number = "Hello world!"
+first_number = 10 
 
 # Add your variables here
